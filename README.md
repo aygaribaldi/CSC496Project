@@ -7,6 +7,7 @@ Team Members
 
 Project Performance Evaluation
 ==============================
+Goal: 
 Select at least four test benchmarks from the paper and repeat the benchmark performance of either KVM, Docker, or Singularity on different hardware on CloudLab.
 
 Project Subtasks:
@@ -15,4 +16,5 @@ Able to automate the installation and configuration of the selected benchmarks a
 Able to automate the entire process within a single CloudLab profile and instantiate/collect at least 20 runs. 
 
 
-Paper Utilized: https://drive.google.com/file/d/1rnUlHRROm8RHGl46jj8QTjbRUsI_urli/view
+Paper Utilized:
+https://drive.google.com/file/d/1rnUlHRROm8RHGl46jj8QTjbRUsI_urli/view
