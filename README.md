@@ -18,3 +18,4 @@ Able to automate the installation and configuration of the selected benchmarks a
 Able to automate the entire process within a single CloudLab profile and instantiate/collect at least 20 runs. 
 
 
+Paper Utilized: https://drive.google.com/file/d/1rnUlHRROm8RHGl46jj8QTjbRUsI_urli/view
