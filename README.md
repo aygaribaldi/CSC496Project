@@ -2,10 +2,7 @@
 
 Team Members:
 
-Alex Garibaldi
-Alex Kuhn
-Ryan Skipp
-David Matz
+Alex Garibaldi, Alex Kuhn, Ryan Skipp, and David Matz
 
 Project:
 
