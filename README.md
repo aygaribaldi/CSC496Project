@@ -1,12 +1,12 @@
-# CSC496Project
+Team Members
+============
+- Alex Garibaldi
+- Alex Kuhn
+- Ryan Skipp
+- David Matz
 
-Team Members:
-
-Alex Garibaldi, Alex Kuhn, Ryan Skipp, and David Matz
-
-Project:
-
-Performance Evaluation:
+Project Performance Evaluation
+==============================
 Select at least four test benchmarks from the paper and repeat the benchmark performance of either KVM, Docker, or Singularity on different hardware on CloudLab.
 
 Project Subtasks:
