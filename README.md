@@ -8,13 +8,11 @@ Team Members
 Project Performance Evaluation
 ==============================
 Goal: 
-Select at least four test benchmarks from the paper and repeat the benchmark performance of either KVM, Docker, or Singularity on different hardware on CloudLab.
+Demonstrate the function of a few different benchmark programs through Docker/OpenStack/CloudLab, mainly: fio, nuttcp, netperf, and stream.
 
 Project Subtasks:
-Able to automatically install KVM, Docker, or Singularity on a single CloudLab profile
-Able to automate the installation and configuration of the selected benchmarks and run the benchmarks.
-Able to automate the entire process within a single CloudLab profile and instantiate/collect at least 20 runs. 
-
+Able to automatically install Docker on a single CloudLab profile
+Able to install and configure the selected benchmarks and run the benchmarks. 
 
 Paper Utilized:
 https://drive.google.com/file/d/1rnUlHRROm8RHGl46jj8QTjbRUsI_urli/view
