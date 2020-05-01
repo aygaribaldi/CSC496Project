@@ -5,10 +5,6 @@ Benchmarks:
 3. Network Bandwidth (nuttcp)
 4. Memory Bandwith (stream)
 
-Automated Installation Process:
+Installation Process:
 ===============================
-User will execute the master.sh script on a functioning Alpine Linux distribution (running in CloudLab). The script will do the following:
-1. Automate the installation of Docker and its dependencies onto the system (if neccesary)
-2. Install the netperf, fio, nuttcp, and stream programs along with their dependencies (if neccesary)
-3. Execute the netperf, fio, nuttcp, and stream benchmark programs, displaying the data of each process to a file and the terminal
-4. Repeat the process of executing, displaying, and writing the benchmark program twenty times for sufficient data gathering
+Please refer to the technical paper document, which details the installation and configuration process.
