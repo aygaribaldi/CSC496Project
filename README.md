@@ -16,3 +16,13 @@ Able to install and configure the selected benchmarks and run the benchmarks.
 
 Paper Utilized for inspiration:
 https://drive.google.com/file/d/1rnUlHRROm8RHGl46jj8QTjbRUsI_urli/view
+
+Brief Installation Overview (covered in Technical Paper)
+==================================================
+
+1) Download and Install Alpine Linux VM in VirtualBox
+2) Install Docker to the Alpine Linux VM
+3) Install fio, nuttcp, and netperf in Ubuntu through Docker
+4) Download and compile stream in Ubuntu through Docker
+5) Upload completed VM image to OpenStack/CloudLab
+6) Run benchmarks
